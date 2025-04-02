@@ -15,7 +15,7 @@ serves as a marketplace for selling online courses.
 offers a seamless experience for users to browse and purchase courses, study the course materials, and track their progress. 
 + The administrator has the ability to manage orders and analyze student performance
 + Take a look to visit the website: 
-https://e-learning-platform.pro
+https://earnest-florentine-07fa7e.netlify.app
 
 ## 2. Main Module features
 
